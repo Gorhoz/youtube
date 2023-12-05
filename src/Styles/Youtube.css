@@ -1,0 +1,149 @@
+.center {
+    margin: auto;
+    display: table;
+    margin-top: 10px;
+  }
+  
+  .grid {
+    width: 150px;
+    line-height: 0;
+    margin: auto;
+    box-shadow: 0px 0px 20px white;
+    margin-top: 20px;
+  }
+    
+  h1, h2, h3, h4 {
+    color: black;
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    margin-top: 10px;
+  }
+
+  .button-small {
+    border: none;
+    background-color: white;
+    color: white;
+    border-radius: 50px;
+    margin: auto; 
+  }
+
+  .button-black{
+    width: 5%;
+    height: 70%;
+    border: none;
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+    margin: auto; 
+    font-weight: bold;
+    font-size: 90%;
+  }
+  .button-grey{
+    width: 8%;
+    height: 70%;
+    border: none;
+    background-color: #D3D3D3;;    
+    border-radius: 50px;
+    margin: auto;     
+    font-size: 90%;
+    text-align: center;
+  }
+  .button-round{
+    background-color: #D3D3D3;
+    border-radius: 50px;
+    height: 70%;
+    width: 2.8rem;
+    border: none;
+    font-size: 150%;
+    font-weight: bold;
+    /* text-align: center; */
+  }
+
+  .user-image {
+    border-radius: 50px;        
+  }
+
+  .centered {    
+      height: 60px;
+      width: 100%;
+      display: flex;
+      align-items: center;
+      position: relative;
+      padding: 0.5rem 0rem;
+      background-color: #fff;
+      color: black;
+      box-shadow: 0 2px 2px 2px rgba(9, 9, 9, 0.23); 
+      margin: auto;   
+  }
+
+  .grey{
+    color: grey
+  }
+
+  .icon-medium {
+    font-size: 200%;
+    color: black;
+    font-weight: 100;
+  }
+  .icon-small {
+    font-size: 150%;
+    color: #484848;
+    font-weight: 100;
+  }
+
+  .likes {
+    color: black;
+    font-size: 110%;    
+    
+    margin-bottom: 55;
+  }
+  .likes-grey {
+    color: #484848;
+    font-size: 90%;    
+    margin-bottom: 55;
+  }
+  .black-dash {
+    color: black;
+    font-size: 180%;
+    /* vertical-align: middle; */
+    /* margin-bottom: 0.5rem; */
+  }
+  .black-text {
+    color: black;
+    font-size: 150%;
+    
+  }
+
+  .shady {
+    background-color: #D3D3D3;
+    border-radius: 20px;
+    font-weight: bold;
+    margin: 1rem;
+    vertical-align: middle;
+  }
+  p.righter {
+    margin-left: 1rem;
+  }
+  .sort {
+    color: 	#484848;
+    font-size: 80%;
+    font-weight: 400;
+  }
+  .left {
+    text-align: left;
+    margin-left: 1rem;
+    margin-top: 1.5rem;
+  }
+
+  .comment-input {
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: #D3D3D3;
+    color: grey;
+    width: 95%;
+    font-size: 1.2rem;
+    }
+  .bold {
+    font-weight: bold;
+  }
