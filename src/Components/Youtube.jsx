@@ -103,7 +103,7 @@ function Video () {
                                 />
                             </BrowserRouter>                
                         </button> <span className='bold'>{com.user}</span>                        
-                        <p>{com.comment}</p>
+                        <p className='underline'>{com.comment}</p>
                         <AiOutlineLike className='icon-small'/> <span className='likes-grey'>{com.likes} </span> <AiOutlineDislike className='icon-small'/> <span className='ilikes-grey'>Reply</span>
                     </div>
                 ))}          
